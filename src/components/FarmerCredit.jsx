@@ -8,7 +8,7 @@ function FarmerCredit({ farmer }) {
       {farmer ? (
         <span>
           Grown by <strong>{farmer.name}</strong>
-          <span className="visually-hidden">, AuraRice-certified farmer</span>
+          <span className="visually-hidden">, RaithuBazzar-certified farmer</span>
         </span>
       ) : (
         <span>Blended in-house from certified growers</span>

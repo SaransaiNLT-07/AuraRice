@@ -30,11 +30,11 @@ function Header({ cartCount, onOpenCart }) {
   return (
     <header className="site-header">
       <div className="container site-header__inner">
-        <a className="brand" href="#top" aria-label="AuraRice — back to top" onClick={closeMenu}>
+        <a className="brand" href="#top" aria-label="RaithuBazzar — back to top" onClick={closeMenu}>
           <span className="brand__mark" aria-hidden="true">
-            AR
+            RB
           </span>
-          <span className="brand__name">AuraRice</span>
+          <span className="brand__name">RaithuBazzar</span>
         </a>
 
         <div className="site-header__actions">

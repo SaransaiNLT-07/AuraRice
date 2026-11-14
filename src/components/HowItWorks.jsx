@@ -1,7 +1,7 @@
 const STEPS = [
   {
     title: 'We certify the farmer',
-    text: 'Every grower is visited and assessed by our team before they can sell on AuraRice. We review how the crop is grown, harvested, dried and stored, and only farmers who meet our standard are certified.',
+    text: 'Every grower is visited and assessed by our team before they can sell on RaithuBazzar. We review how the crop is grown, harvested, dried and stored, and only farmers who meet our standard are certified.',
   },
   {
     title: 'Each harvest is tested',
@@ -13,7 +13,7 @@ const STEPS = [
   },
   {
     title: 'Sold directly to you',
-    text: 'You buy the certified harvest straight from the farm through AuraRice. No commission agents, no traders, no wholesalers — just the grower, our standard and your kitchen.',
+    text: 'You buy the certified harvest straight from the farm through RaithuBazzar. No commission agents, no traders, no wholesalers — just the grower, our standard and your kitchen.',
   },
 ]
 
@@ -27,7 +27,7 @@ function HowItWorks() {
             One short, honest chain from farm to kitchen
           </h2>
           <p className="section-lede">
-            AuraRice is a direct marketplace. We do not trade in commodity lots —
+            RaithuBazzar is a direct marketplace. We do not trade in commodity lots —
             we certify individual farmers, verify every harvest they bring to us,
             and connect it directly with the buyers who value it.
           </p>

@@ -11,7 +11,7 @@ function FarmersSection() {
             The people behind every pack
           </h2>
           <p className="section-lede">
-            Every product on AuraRice can be traced to a named, certified grower.
+            Every product on RaithuBazzar can be traced to a named, certified grower.
             When you order, you are buying directly from them.
           </p>
         </header>
@@ -54,7 +54,7 @@ function FarmersSection() {
 
                 <p className="farmer-card__certified">
                   <CertifiedSeal />
-                  AuraRice Certified since {farmer.certifiedSince}
+                  RaithuBazzar Certified since {farmer.certifiedSince}
                 </p>
               </article>
             </li>

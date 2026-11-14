@@ -4,7 +4,7 @@ export const ALL_CATEGORY = 'All'
 
 export const CATEGORIES = [ALL_CATEGORY, 'Rice', 'Spices']
 
-// States where AuraRice-certified growers farm. Used by the hero stats and Our Story.
+// States where RaithuBazzar-certified growers farm. Used by the hero stats and Our Story.
 export const SOURCING_REGIONS = [
   'Telangana',
   'Haryana',

@@ -1,11 +1,11 @@
-const EMAIL = 'aurarice@gmail.com'
+const EMAIL = 'RaithuBazzar@gmail.com'
 const PHONE_DISPLAY = '+91 92488 83361'
 const PHONE_HREF = 'tel:+919248883361'
 
 const STEPS = [
   {
     title: 'Choose your products',
-    text: 'Browse the collection and add the rice and spices you need to your cart. Every product comes from an AuraRice-certified farmer.',
+    text: 'Browse the collection and add the rice and spices you need to your cart. Every product comes from an RaithuBazzar-certified farmer.',
   },
   {
     title: 'Place your order',
@@ -31,13 +31,13 @@ const CHANNELS = [
   {
     title: 'Order by email',
     text: 'Send us the products, quantities and your delivery address.',
-    href: `mailto:${EMAIL}?subject=${encodeURIComponent('AuraRice order')}`,
+    href: `mailto:${EMAIL}?subject=${encodeURIComponent('RaithuBazzar order')}`,
     linkText: EMAIL,
   },
   {
     title: 'Bulk and business orders',
     text: 'Restaurants, caterers and retailers can buy directly from certified farms in larger quantities.',
-    href: `mailto:${EMAIL}?subject=${encodeURIComponent('AuraRice bulk order enquiry')}`,
+    href: `mailto:${EMAIL}?subject=${encodeURIComponent('RaithuBazzar bulk order enquiry')}`,
     linkText: 'Enquire about bulk orders',
   },
 ]

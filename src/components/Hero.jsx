@@ -1,7 +1,7 @@
 import { SOURCING_REGIONS } from '../data/products.js'
 
 const STATS = [
-  { value: '100%', label: 'AuraRice-certified farmers' },
+  { value: '100%', label: 'RaithuBazzar-certified farmers' },
   { value: '0', label: 'Middlemen in between' },
   { value: String(SOURCING_REGIONS.length), label: 'Growing regions' },
 ]
@@ -17,7 +17,7 @@ function Hero() {
           From certified farms, <em>straight to your kitchen.</em>
         </h1>
         <p className="hero__lede">
-          AuraRice connects you directly with farmers we have certified
+          RaithuBazzar connects you directly with farmers we have certified
           ourselves. Premium rice and spices, tested batch by batch and sold
           without traders or wholesalers in between — so you know exactly where
           your food comes from, and more of what you pay reaches the people who
@@ -33,7 +33,7 @@ function Hero() {
           </a>
         </div>
 
-        <ul className="hero__stats" aria-label="Why AuraRice">
+        <ul className="hero__stats" aria-label="Why RaithuBazzar">
           {STATS.map((stat) => (
             <li key={stat.label} className="hero__stat">
               <span className="hero__stat-value">{stat.value}</span>

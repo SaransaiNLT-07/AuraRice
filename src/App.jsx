@@ -81,7 +81,7 @@ function App() {
                 Straight from certified farms
               </h2>
               <p className="section-lede">
-                Every product below is grown by an AuraRice-certified farmer,
+                Every product below is grown by an RaithuBazzar-certified farmer,
                 tested batch by batch and sold to you directly — no traders or
                 wholesalers in between. The region on each pack is where it was
                 grown.

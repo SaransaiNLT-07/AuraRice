@@ -13,24 +13,24 @@ const STANDARDS = [
   },
   {
     title: 'Earned, then kept',
-    text: 'Certification is reviewed on an ongoing basis. Growers who no longer meet the AuraRice standard are removed from the platform.',
+    text: 'Certification is reviewed on an ongoing basis. Growers who no longer meet the RaithuBazzar standard are removed from the platform.',
   },
 ]
 
 const APPLY_HREF =
-  'mailto:aurarice@gmail.com?subject=' + encodeURIComponent('AuraRice farmer certification enquiry')
+  'mailto:RaithuBazzar@gmail.com?subject=' + encodeURIComponent('RaithuBazzar farmer certification enquiry')
 
 function Certification() {
   return (
     <section id="certification" className="section certification" aria-labelledby="certification-title">
       <div className="container">
         <header className="section-header">
-          <p className="eyebrow">AuraRice Certified</p>
+          <p className="eyebrow">RaithuBazzar Certified</p>
           <h2 id="certification-title" className="section-title">
             A standard farmer earns — and keeps earning
           </h2>
           <p className="section-lede">
-            Only farmers certified by AuraRice can sell on this platform.
+            Only farmers certified by RaithuBazzar can sell on this platform.
             Certification is not a label we sell or a fee a grower pays to be
             listed. It is our promise to you about who grew your food and how.
           </p>
@@ -52,7 +52,7 @@ function Certification() {
             </h3>
             <p className="farmer-cta__text">
               If you farm premium rice or spices and want to sell directly to
-              buyers who value quality, apply for AuraRice certification. Our team
+              buyers who value quality, apply for RaithuBazzar certification. Our team
               will get in touch to arrange a farm visit.
             </p>
           </div>

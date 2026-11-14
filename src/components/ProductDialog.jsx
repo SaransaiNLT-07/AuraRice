@@ -61,7 +61,7 @@ function ProductDialog({ product, onClose, onAddToCart }) {
               {farmer && (
                 <>
                   <p className="product-dialog__farmer-meta">
-                    {farmer.location} · AuraRice Certified since {farmer.certifiedSince}
+                    {farmer.location} · RaithuBazzar Certified since {farmer.certifiedSince}
                   </p>
                   <p className="product-dialog__farmer-story">{farmer.story}</p>
                 </>

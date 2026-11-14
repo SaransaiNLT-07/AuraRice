@@ -16,7 +16,7 @@ function StorySection() {
           final price.
         </p>
         <p className="story__text">
-          AuraRice was founded in 2025 to remove those steps. We work directly
+          RaithuBazzar was founded in 2025 to remove those steps. We work directly
           with certified growers in Telangana, Haryana, Punjab, Andhra Pradesh,
           Kerala and Kashmir, test every batch for moisture, purity and aroma,
           and seal it in small batches at source. Buyers receive produce they can

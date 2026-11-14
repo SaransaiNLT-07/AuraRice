@@ -1,5 +1,5 @@
 // SAMPLE DATA — every farmer below is a placeholder for layout only.
-// Before launch, replace with real AuraRice-certified farmers who have agreed
+// Before launch, replace with real RaithuBazzar-certified farmers who have agreed
 // to be named on the site, and keep `productIds` in step with products.js.
 // Photos are stock placeholders from Unsplash (free licence) and do NOT show
 // the people named here — swap in each real farmer's own photo before launch.

@@ -1,4 +1,4 @@
-// Small gold check-in-circle mark used wherever we reference AuraRice certification.
+// Small gold check-in-circle mark used wherever we reference RaithuBazzar certification.
 function CertifiedSeal() {
   return (
     <svg className="certified-seal" viewBox="0 0 20 20" width="16" height="16" aria-hidden="true" focusable="false">

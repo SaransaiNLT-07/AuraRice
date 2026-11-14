@@ -1,6 +1,6 @@
-# AuraRice
+# RaithuBazzar
 
-Static landing site for AuraRice — premium rice and spices, refined at the source.
+Static landing site for RaithuBazzar — premium rice and spices, refined at the source.
 React + Vite, no backend; all product data lives in `src/data/products.js`.
 
 ```bash
@@ -13,7 +13,7 @@ npm run build    # production build into dist/
 ## Product photos
 
 The images in `public/images/products/` are generic stock photos (cropped to 4:5, 1000×1250) from Unsplash,
-used under the [Unsplash License](https://unsplash.com/license). They don't show AuraRice packs.
+used under the [Unsplash License](https://unsplash.com/license). They don't show RaithuBazzar packs.
 
 | File | Source |
 | --- | --- |
@@ -33,5 +33,5 @@ used under the [Unsplash License](https://unsplash.com/license). They don't show
 - [ ] Replace contact details in `src/components/Footer.jsx` (email, phone, address).
 - [ ] Review and finalise product descriptions and brand copy.
 - [ ] Connect a real cart, checkout and payment to "Add to cart" (see `handleAddToCart` in `src/App.jsx`).
-- [ ] Replace the sample farmers in `src/data/farmers.js` with real AuraRice-certified farmers who have agreed to be
+- [ ] Replace the sample farmers in `src/data/farmers.js` with real RaithuBazzar-certified farmers who have agreed to be
       named on the site. Keep each farmer's `productIds` in step with `src/data/products.js`.
